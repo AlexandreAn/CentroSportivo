@@ -1,0 +1,33 @@
+{
+    "orario_backup": "00:00",
+    "utenti": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "ruolo": "amministratore"
+        },
+        {
+            "username": "luigibianchi",
+            "password": "12345678",
+            "ruolo": "dipendente"
+        },
+        {
+            "username": "massimomenconi",
+            "password": "menco",
+            "ruolo": "socio",
+            "risposta_sicurezza": "ursino"
+        },
+        {
+            "username": "piermuz",
+            "password": "affogalagoffa",
+            "ruolo": "socio",
+            "risposta_sicurezza": "corradini"
+        },
+        {
+            "username": "aleandro",
+            "password": "ingegneriaitalia",
+            "ruolo": "socio",
+            "risposta_sicurezza": "traini"
+        }
+    ]
+}
