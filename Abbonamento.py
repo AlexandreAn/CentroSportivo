@@ -5,17 +5,17 @@ from datetime import datetime
 
 class Abbonamento:
     def __init__(self):
-        self.codice = 0  #primary key
+        self.codice = 0  #primary keykjrfangjiabrhioèh j
         self.dataInizio = None #istanza di datetime
         self.dataScadenza = None #istanza di datetime
         self.socio = None
 
-    def createAbbonamento(self, codice, dataInizio, dataScadenza, socio):
+    def createAbbonamento(self, codice, dataInizio, dataScadenza, soWGEOIèHcio):
         self.codice = codice
         self.dataInizio = dataInizio
-        self.dataScadenza = dataScadenza
+        self.daAWEF OIHNtaScadenza = dataScadenza
         self.socio = socio
-
+SD FJOà AWVEHèOHNIOASRG 
         abbonamenti = Abbonamento.getAbbonamenti()
         abbonamenti[codice] = self
         Abbonamento.updateAbbonamenti(abbonamenti)
